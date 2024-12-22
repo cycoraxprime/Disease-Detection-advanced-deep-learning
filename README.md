@@ -1,1 +1,1 @@
-# Brain-tumor-advanced-deep-learning
+# Disease Detection-advanced-deep-learning
